@@ -109,9 +109,10 @@ body {
 
 /* blog */
 h1,h2,h3,h4{
-    margin: 5px;
+    margin : 0px;
     padding: 15px;
 }
 .content{
     padding: 30px;
+    width  : 400px;
 }
