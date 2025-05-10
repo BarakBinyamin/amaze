@@ -26,11 +26,17 @@ html {
     /* background-color : aquamarine; */
     color            : black;
     height           : 100%;
+    width            : 100vw;
+    overflow         : hidden;
+    overflow-wrap    : normal;
 }
 
 body {
-    margin : 0;
-    height : 100%;
+    margin           : 0;
+    height           : 100%;
+    width            : 100%;
+    overflow         : hidden;
+    overflow-wrap    : normal;
 }
 
 .center{
