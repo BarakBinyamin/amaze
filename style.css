@@ -51,7 +51,7 @@ body {
 
 .navbar{
     display              : grid;
-    grid-template-columns: auto max-content max-content;
+    grid-template-columns: max-content max-content;
     width                : 100%;
     align-items          : end;
     justify-items        : end;
